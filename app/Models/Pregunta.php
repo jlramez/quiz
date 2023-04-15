@@ -8,8 +8,8 @@ use App\Models\Tipo;
 
 /**
  * Class Pregunta
- *
- * @property $id
+ * comment
+ * @property $id 
  * @property $contenido
  * @property $secciones_id
  * @property $created_at
